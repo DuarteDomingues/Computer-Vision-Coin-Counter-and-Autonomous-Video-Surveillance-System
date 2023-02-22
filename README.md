@@ -7,7 +7,7 @@ Licenciatura Engenharia Informática e Multimédia - ISEL
 
 ---
 
-Computer Vision projects using Python and OpenCV
+#### Computer Vision projects using Python and OpenCV.
 
 The firs project is based on manipulating images, introducing concepts such as filters, object detection,
 data manipulation, to count how many coins, and what their values are in a horizontal plane at a predetermined distance from the ground.
